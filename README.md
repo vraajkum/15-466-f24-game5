@@ -1,8 +1,9 @@
-# (TODO: your game's title)
+# Escape the Shadow Dimension
 
-Author: (TODO: your name)
+Author: Vishant Raajkumar
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: In this brand new strand-type game from acclaimed game director Vishant "Kojima" Raajkumar, you must use Norman Reedus's
+amazing walking skills to escape the shadow dimension and find the plant on the other side.
 
 Screen Shot:
 
@@ -10,9 +11,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+To play, walk around using WASD and look around with the mouse. You may find that my mesh is broken so you can clip through the ground to escape the shadow dimension.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: I made my own broken mesh with incorrect normals
 
 This game was built with [NEST](NEST.md).
 
